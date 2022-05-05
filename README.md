@@ -19,7 +19,7 @@ Gagal Input
 ![SS Gagal Input 2](https://user-images.githubusercontent.com/90953569/166936622-af059920-a516-446c-9caa-1dcbe8dfd5b1.png)
 <br>
 
-<br>
+<br><br>
 Berhasil Input
 <br>
 ![SS Berhasil Input 1](https://user-images.githubusercontent.com/90953569/166936689-0758bc8a-c0fa-4f7f-b5d3-ed991ebcbdcd.png)
@@ -29,7 +29,7 @@ Berhasil Input
 
 <br><br>
 4. Menambahkan query delete seluruh data tabel yang akan dipanggil ketika tombol hapus semua data mahasiswa diklik oleh user
-<br>
+<br><br>
 Sebelum dihapus
 <br>
 ![SS Hapus 1](https://user-images.githubusercontent.com/90953569/166937125-f92f99b5-7af9-49a6-8417-035a6cd247cd.png)
@@ -41,7 +41,7 @@ Setelah dihapus
 ![SS Hapus 2](https://user-images.githubusercontent.com/90953569/166937229-f46ee40d-6f65-4959-9ad1-7ff85ee4917f.png)
 <br>
 
-<br>
+<br><br>
 5. Menambahkan tombol daftar fasilitas kampus yang akan memanggil fungsi viewFasilitas. Fungsi viewFasilitas akan menampilkan foto-foto fasilitas kampus dan dapat digeser
 <br>
 ![SS Fasilitas 1](https://user-images.githubusercontent.com/90953569/166937627-b5d1c143-60da-4cf4-b919-85e0bcbfdd16.png)
