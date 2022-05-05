@@ -22,9 +22,9 @@ Gagal Input
 Berhasil Input
 <br>
 ![SS Berhasil Input 1](https://user-images.githubusercontent.com/90953569/166936689-0758bc8a-c0fa-4f7f-b5d3-ed991ebcbdcd.png)
-
 <br>
 ![SS Berhasil Input 2](https://user-images.githubusercontent.com/90953569/166936706-a685914e-929a-46f8-ba44-36badd82818a.png)
+<br>
 
 <br><br>
 4. Menambahkan query delete seluruh data tabel yang akan dipanggil ketika tombol hapus semua data mahasiswa diklik oleh user
@@ -32,6 +32,7 @@ Berhasil Input
 Sebelum dihapus
 <br>
 ![SS Hapus 1](https://user-images.githubusercontent.com/90953569/166937125-f92f99b5-7af9-49a6-8417-035a6cd247cd.png)
+<br>
 
 <br><br>
 Setelah dihapus
