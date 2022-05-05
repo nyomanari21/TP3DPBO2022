@@ -13,7 +13,7 @@ Saya Nyoman Ari Satyadharma 2000831 mengerjakan TP3DPBO2022 dalam mata kuliah De
 3. Menambahkan validasi saat memanggil fungsi insertData. Ketika semua input data mahasiswa lengkap, maka query insert data akan dipanggil untuk menambahkan data ke database. Sebaliknya, jika ada data input mahasiswa yang kosong, maka query insert data tidak dipanggil dan menampilkan notifikasi data tidak lengkap
 <br><br>
 Gagal Input
-<br>
+<br><br>
 ![SS Gagal Input 1](https://user-images.githubusercontent.com/90953569/166936613-127ea680-5823-4a77-91eb-c8df8e6e18c1.png)
 <br>
 ![SS Gagal Input 2](https://user-images.githubusercontent.com/90953569/166936622-af059920-a516-446c-9caa-1dcbe8dfd5b1.png)
