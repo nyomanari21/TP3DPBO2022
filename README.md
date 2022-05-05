@@ -13,13 +13,13 @@ Saya Nyoman Ari Satyadharma 2000831 mengerjakan TP3DPBO2022 dalam mata kuliah De
 Gagal Input
 <br>
 ![SS Gagal Input 1](https://user-images.githubusercontent.com/90953569/166936613-127ea680-5823-4a77-91eb-c8df8e6e18c1.png)
-<br>
+<br><br>
 ![SS Gagal Input 2](https://user-images.githubusercontent.com/90953569/166936622-af059920-a516-446c-9caa-1dcbe8dfd5b1.png)
 <br><br>
 Berhasil Input
 <br>
 ![SS Berhasil Input 1](https://user-images.githubusercontent.com/90953569/166936689-0758bc8a-c0fa-4f7f-b5d3-ed991ebcbdcd.png)
-<br>
+<br><br>
 ![SS Berhasil Input 2](https://user-images.githubusercontent.com/90953569/166936706-a685914e-929a-46f8-ba44-36badd82818a.png)
 <br><br>
 4. Menambahkan query delete seluruh data tabel yang akan dipanggil ketika tombol hapus semua data mahasiswa diklik oleh user
@@ -35,6 +35,6 @@ Setelah dihapus
 5. Menambahkan tombol daftar fasilitas kampus yang akan memanggil fungsi viewFasilitas. Fungsi viewFasilitas akan menampilkan foto-foto fasilitas kampus dan dapat digeser
 <br><br>
 ![SS Fasilitas 1](https://user-images.githubusercontent.com/90953569/166937627-b5d1c143-60da-4cf4-b919-85e0bcbfdd16.png)
-<br>
+<br><br>
 ![SS Fasilitas 2](https://user-images.githubusercontent.com/90953569/166937639-4f08d897-f630-4bdd-95d6-6c1fa017a2b6.png)
-<br>
+<br><br>
