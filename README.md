@@ -35,7 +35,7 @@ Sebelum dihapus
 ![SS Hapus 1](https://user-images.githubusercontent.com/90953569/166937125-f92f99b5-7af9-49a6-8417-035a6cd247cd.png)
 <br>
 
-<br>
+<br><br>
 Setelah dihapus
 <br>
 ![SS Hapus 2](https://user-images.githubusercontent.com/90953569/166937229-f46ee40d-6f65-4959-9ad1-7ff85ee4917f.png)
